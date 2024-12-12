@@ -5,6 +5,6 @@ Tell us what your utopian research notebook/tool/system would look like in terms
 
 Provide your thoughts by submitting a [GitHub issue](https://github.com/KnowLedgerProject/KnowYou/issues) using one of the templates provided.
 
-Later on, once the project is going, we will enable discussions in this repo we discuss the ideas you have.
+Later on, once the project is going, we will enable discussions in this repo to encourage discussion of your ideas.
 
 Cheers, The KnowLedger Team
